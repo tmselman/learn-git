@@ -1,1 +1,2 @@
-Owner: Selman -  Lead devops
+Project Owner: Selman (DevOps Engineer)
+
