@@ -1,1 +1,2 @@
-Owner: Selman -cloud architect
+Project Owner: Selman (DevOps Engineer)
+
